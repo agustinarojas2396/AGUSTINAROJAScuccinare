@@ -1,0 +1,80 @@
+
+.viajes{
+    align-items: center;
+    text-align: center;
+}
+
+body{
+    background-image: url(./media/fondo\ para\ comida.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+
+.titulo{ 
+    font-family: 'Kaushan Script', cursive;
+    text-align: center;
+    color: beige;
+    padding: 2rem;
+}
+
+.speech{
+    font-family: 'Alfa Slab One', cursive;
+    color: beige;
+    margin-left: 2rem;
+    padding: 2rem;
+
+}
+.carrito{
+    color: beige}
+
+.btn-default{
+    color: beige;
+    }
+
+.btn-default:hover{
+    color: beige;
+}
+
+.precio{
+    color: beige;
+}
+.total{
+    color: beige;
+}
+.card{
+    padding: 2rem;
+    display: inline-block;
+    align-items: center;
+}
+
+.comprar{
+    text-align: center;
+}
+
+.pagos2{
+    text-align: center;
+    padding: 2rem;
+
+}
+.card-title{
+    font-size: 15px;
+}
+.tiempoviaje{
+    align-items: center;
+    text-align: center;
+    padding: 2rem;
+}
+
+.salta{
+    padding: 3rem;}
+
+.bariloche{
+    padding: 3rem;
+}
+
+.mendoza{
+    padding: 3rem;
+}
